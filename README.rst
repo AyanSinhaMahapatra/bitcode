@@ -1,4 +1,4 @@
-bitcode
+bitcode-test
 ==================
 This repo is a pure python implementation for `intbitset <https://github.com/inveniosoftware-contrib/intbitset>`_.
 
@@ -12,7 +12,7 @@ Requirements
 
 .. code-block:: bash
 
-    pip install bitcode
+    pip install bitcode-test
 
 Documentation
 ---------------------------
